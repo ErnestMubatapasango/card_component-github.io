@@ -67,7 +67,7 @@ h1 span{
     margin-right: 450px;
 }
 
-@media screen and (max-width:1440px) {
+@media screen and (max-width:900px) {
 
     .main__container{
 
